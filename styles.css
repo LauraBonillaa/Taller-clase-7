@@ -1,0 +1,92 @@
+body {
+
+    background-color: #ffffff;
+    background-size: cover;
+    position: relative;
+    font-family: 'Heebo', sans-serif;
+}
+
+body {
+
+    height: 100%;
+    width: 100%;
+    display: flex;
+
+}
+.contenedor{
+
+    height: 100%;
+    width: 100%;
+    position: absolute;
+
+}
+.cuadro_1{
+
+    height: 90px;
+    width: 190px;
+    border: 0.5rem black;
+    background-color: rgb(113, 113, 255);
+    position: absolute;
+    top: 310px; left: 650px;
+    display: flex;
+
+}
+.cuadro_2{
+
+    height: 90px;
+    width: 190px;
+    border: 0.5rem black;
+    background-color: rgb(87, 0, 158);
+    position: absolute;
+    top: 280px; left: 580px;
+    display: flex;
+
+}
+
+.cuadro_3{
+
+    height: 90px;
+    width: 190px;
+    border: 0.5rem black;
+    background-color: rgb(60, 194, 98);
+    position: relative;
+    top: 30px; left: 40px;
+    display: flex;
+
+}
+
+.cuadro_4{
+
+    height: 90px;
+    width: 190px;
+    border: 0.5rem black;
+    background-color: rgb(123, 9, 9);
+    position: absolute;
+    top: 30px; left: 1250px;
+    display: flex;
+
+}
+
+.cuadro_5{
+
+    height: 90px;
+    width: 190px;
+    border: 0.5rem black;
+    background-color: rgb(255, 119, 0);
+    position: relative;
+    top: 470px; left: 40px;
+    display: flex;
+
+}
+
+.cuadro_6{
+
+    height: 90px;
+    width: 190px;
+    border: 0.5rem black;
+    background-color: rgb(255, 255, 0);
+    position: absolute;
+    top: 560px; left: 1250px;
+    display: flex;
+
+}
